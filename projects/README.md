@@ -39,28 +39,28 @@ https://asciinema.org/a/41oii7qRtNP1LOPcOjCKP0H48
 # Συμμετοχικό Περιεχόμενο Α1
 ## Apple Watch 
 ### Link Images:
-https://github.com/team-132/images/blob/master/apple-watch-series-4.png
-https://github.com/team-132/images/blob/master/apple-watch-series-4-thumb.png
+- https://github.com/team-132/images/blob/master/apple-watch-series-4.png
+- https://github.com/team-132/images/blob/master/apple-watch-series-4-thumb.png
 ### Link Gallery:
-https://github.com/team-132/_gallery/blob/master/apple-watch.md
+- https://github.com/team-132/_gallery/blob/master/apple-watch.md
 ## xBox
 ### Link Images:
-https://github.com/team-132/images/blob/master/xbox-one.jpg
-https://github.com/team-132/images/blob/master/xbox-one-thumb.jpg
+- https://github.com/team-132/images/blob/master/xbox-one.jpg
+- https://github.com/team-132/images/blob/master/xbox-one-thumb.jpg
 ### Link Gallery:
-https://github.com/team-132/_gallery/blob/master/xbox.md
+- https://github.com/team-132/_gallery/blob/master/xbox.md
 
 # ΣYMMETOXIKO ΠERIEXOMENO Α2 :
 ## APPLE-WATCH :
 ### slides :
-https://github.com/team-132/site/blob/master/slides/apple-watch.md
+- https://github.com/team-132/site/blob/master/slides/apple-watch.md
 ### timeline :
-https://github.com/team-132/site/blob/master/timeline/apple-watch.md
+- https://github.com/team-132/site/blob/master/timeline/apple-watch.md
 ## XBox :
 ### slides :
-https://github.com/team-132/site/tree/master/slides
+- https://github.com/team-132/site/tree/master/slides
 ### timeline :
-https://github.com/team-132/site/tree/master/timeline
+- https://github.com/team-132/site/tree/master/timeline
 
 # Κατασκευή του βιβλίου Α :
 
